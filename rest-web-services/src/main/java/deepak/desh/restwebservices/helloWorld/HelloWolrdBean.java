@@ -1,4 +1,4 @@
-package helloWorld;
+package deepak.desh.restwebservices.helloWorld;
 
 public class HelloWolrdBean {
 	private String message;
